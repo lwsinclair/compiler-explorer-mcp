@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/torshepherd-compiler-explorer-mcp-badge.png)](https://mseep.ai/app/torshepherd-compiler-explorer-mcp)
+
 # Compiler Explorer MCP
 
 A Model Context Protocol (MCP) server that connects LLMs to the Compiler Explorer API, enabling them to compile code, explore compiler features, and analyze optimizations across different compilers and languages.
